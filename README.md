@@ -10,6 +10,8 @@ Notice, you need backend and frontend runs concurrently in different terminal se
 
 ## Command Instructions
 
+Please clone this repository to your local machine.
+
 ```terminal
 $ npm i         // npm install packages
 $ npm run json-server   // this will running on port 8000
