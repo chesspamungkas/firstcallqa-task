@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "chesspamungkas",
+      "firstname": "Chess",
+      "lastname": "Pamungkas",
+      "id": 1
+    },
+    {
+      "username": "caturpamungkas",
+      "firstname": "Catur",
+      "lastname": "Pamungkas",
+      "id": 2
+    }
+  ]
+}
